@@ -1,0 +1,14 @@
+{
+  "author": "EvDevTech",
+  "compatibility": [2],
+  "description": "sync external SRT subtitle streams to video files with the same name",
+  "icon": "file://icon.png",
+  "id": "sub_sync",
+  "name": "Synchronize Subtitles",
+  "platform": ["all"],
+  "priorities": {
+    "on_worker_process": 2
+  },
+  "tags": "subtitle",
+  "version": "0.0.1"
+}
